@@ -14,3 +14,4 @@ testWebP(function (support) {
 		document.querySelector('body').classList.add('no-webp');
 	}
 });
+dddd6e470f9e3ea3c4c70d318021d948c124e0e0
